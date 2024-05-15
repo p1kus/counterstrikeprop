@@ -16,11 +16,15 @@ Use at your own risk!
 Make sure you connect all your parts to correct pins, or customize the configuration for your own setup.
 
 for LED:
+
 `const int LED_PIN = 9;`
+
 for Buzzer:
+
 `const int BUZZER_PIN = 10;`
 
 for Keypad:
+
 `const byte ROWS = 4; // Define the number of rows on the keypad
 const byte COLS = 3; // Define the number of columns on the keypad`
 
