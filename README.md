@@ -3,7 +3,7 @@ Counter Strike inspired bomb prop.
 
 Use at your own risk!
 
-#**List of parts used:**
+## **List of parts used:**
 - Arduino Nano
 - Standard 2x16 I2C Display
 - 4x3 Standard Keypad
@@ -11,7 +11,7 @@ Use at your own risk!
 - Red LED Diode
 - Development Board
 
-#**Pin SETUP**
+## **Pin SETUP**
 
 Make sure you connect all your parts to correct pins, or customize the configuration for your own setup.
 
